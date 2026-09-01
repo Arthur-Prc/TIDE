@@ -1,4 +1,6 @@
 # TIDE Framework 🛰️
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f8ebf8f2-e97d-4014-ab8f-92b02ea8522c" />
+
 
 ### Technician & Infrastructure Detection Environment
 
